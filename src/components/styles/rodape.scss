@@ -1,16 +1,17 @@
 // Rodape.module.scss
 
 footer {
-    display: flex;
-    justify-content: space-around;
-    background-color: #bdf2d8;
-    padding: 20px;
-  
+  display: flex;
+  justify-content: space-around;
+  background-color: #99cd85;
+  padding: 20px
+
     div {
       display: flex;
       text-align: center;
       padding: 20px;
       margin :0 25px;
+    }
       
       h2 {
         color: #03100a;
