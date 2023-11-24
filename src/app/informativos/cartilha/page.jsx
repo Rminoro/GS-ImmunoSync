@@ -111,9 +111,9 @@ const PesquisarTabela = () => {
             </Link>
             </h3>
             <h3>
-            <Link href="/informativos/cadastro">
+              <Link href="/informativos/cadastro">
                 Caso necessário volte para o cadastro!
-            </Link>
+              </Link>
             </h3>
         </div>
       )}
