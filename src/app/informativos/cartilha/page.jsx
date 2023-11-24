@@ -26,7 +26,7 @@ const PesquisarTabela = () => {
       .catch((error) => {
         setIsLoaded(true);
         setError(error.message);
-        console.error('Erro ao obter dados da tabela:', error);
+        console.error('Error ao obter dados da tabela:', error);
       });
   };
   
