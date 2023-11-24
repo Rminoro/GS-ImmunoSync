@@ -7,7 +7,7 @@ export default function Rodape() {
     <div>
         <h2>Integrantes</h2>
         <ul>
-          <li>Eduardo Moura Batageli - RM 97611 - 1TDSS</li>
+          <li></li>
           <li>Felipe Rodrigues Franco de Oliveira — RM 552101 - 1TDSB</li>
           <li>Murilo Ribeiro Valério da Silva - RM550858 - 1TDSB</li>
           <li>Rafael Minoro Itokazo -  RM99988 - 1TDSS</li>
@@ -18,7 +18,7 @@ export default function Rodape() {
     <div>
     <h2>Cargos</h2>
         <ul>
-          <li>Python/IA</li>
+          <li>Construção lógica api</li>
           <li>Cargo</li>
           <li>Cargo</li>
           <li>Estilização e integração JAVA</li>
