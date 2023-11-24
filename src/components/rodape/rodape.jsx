@@ -22,7 +22,7 @@ export default function Rodape() {
           <li>Cargo</li>
           <li>Cargo</li>
           <li>Cargo</li>
-          <li>SOFTWARE DESIGN & TOTAL EXPERIENCE</li>
+          <li>SOFTWARE DESIGN & TOTAL EXPERIENCE/IA</li>
 
         </ul>
     </div>
