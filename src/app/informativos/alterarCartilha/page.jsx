@@ -73,7 +73,7 @@ const AlterarTabela = () => {
     <div className="conteudo">
       <h1>Alterar Tabela</h1>
       <label>
-        ID da Tabela:
+        ID da tabela:
         <input type="text" value={id} onChange={handleChangeId} />
       </label>
       <button onClick={handleSearch}>Pesquisar</button>
