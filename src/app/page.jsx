@@ -8,9 +8,9 @@ import Link from "next/link";
 const Principal = () => {
   return (
     <div className={styles.principal}>
-      <h1>Bem-vindo a ImunoSync</h1>
+      <h1>Bem-vindo a ImmunoSync</h1>
       <Menu />
-      
+
     </div>
   );
 };
