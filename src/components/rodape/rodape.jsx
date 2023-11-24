@@ -7,7 +7,7 @@ export default function Rodape() {
     <div>
         <h2>Integrantes</h2>
         <ul>
-          <li></li>
+          <li>Eduardo Moura Batageli - RM 97611 - 1TDSS</li>
           <li>Felipe Rodrigues Franco de Oliveira — RM 552101 - 1TDSB</li>
           <li>Murilo Ribeiro Valério da Silva - RM550858 - 1TDSB</li>
           <li>Rafael Minoro Itokazo -  RM99988 - 1TDSS</li>
