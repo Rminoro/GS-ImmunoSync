@@ -11,7 +11,7 @@ export default function Rodape() {
           <li>Felipe Rodrigues Franco de Oliveira — RM 552101 - 1TDSB</li>
           <li>Murilo Ribeiro Valério da Silva - RM550858 - 1TDSB</li>
           <li>Rafael Minoro Itokazo - RM99988 - 1TDSS</li>
-          <li></li>
+          <li>Vitor da Silva Pereira - RM551831 - 1TDSPV</li>
         </ul>
        
     </div>
