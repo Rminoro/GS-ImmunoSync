@@ -11,7 +11,7 @@ export default function Cabecalho() {
           <Image src="/image/logo.png" alt="logo" width={350} height={150} className={styles.logo} />
         </div>
       </Link>
-      <Link href="/menu/covid">Vacinação Covid19</Link>
+      <Link href="/menu/covid">Vacinação Covid-19</Link>
       <Link href="/menu/mortalidade">Vacinação</Link>
     </div>
   );
