@@ -19,7 +19,7 @@ export default function Rodape() {
     <h2>Cargos</h2>
         <ul>
           <li>Construção lógica api</li>
-          <li>Cargo</li>
+          <li>idealização do software</li>
           <li>Cargo</li>
           <li>Estilização e integração JAVA</li>
           <li>SOFTWARE DESIGN & TOTAL EXPERIENCE/IA</li>
