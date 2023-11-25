@@ -18,7 +18,7 @@ export default function Rodape() {
     <div>
     <h2>Cargos</h2>
         <ul>
-          <li>Python/IA</li>
+          <li>Construção lógica api</li>
           <li>Cargo</li>
           <li>Cargo</li>
           <li>Estilização e integração JAVA</li>
